@@ -14,3 +14,6 @@ release/
 *.lnk
 packaging-check.wav
 .pytest_cache/
+
+# 本机开发验证历史
+VALIDATION.md
