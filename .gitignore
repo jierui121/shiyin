@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+data/
+models/
+*.log
+build/
+dist/
+release/
+
+# 本机配置、快捷方式与验证音频
+.env
+.env.*
+!.env.example
+*.lnk
+packaging-check.wav
+.pytest_cache/

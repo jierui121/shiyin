@@ -1,0 +1,5 @@
+sounddevice>=0.5,<0.6
+faster-whisper>=1.2,<2
+requests>=2.32,<3
+av>=15,<17
+opencc-python-reimplemented==0.1.7
